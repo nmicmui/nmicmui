@@ -7,8 +7,8 @@ Github es una plataforma creada para alojar el código de las aplicaciones de cu
 ## _¿Qué es Copilot?_ ##
 Github Copilot es una herramienta de inteligencia artificial basada en la nube desarrollada por Github y OpenAI para ayudar y asistir a los usuarios de:
 - Visual Studio Code
-- Visual Studio
-- Neovim
-- Los entornos de desarrollo integrado de JetBrains mediante el autocompletado de código
+ - Visual Studio
+  - Neovim
+   - Los entornos de desarrollo integrado de JetBrains mediante el autocompletado de código
 
 La imagen de la empresa detrás de Github está en la carpeta img.md como Capturapantalla
